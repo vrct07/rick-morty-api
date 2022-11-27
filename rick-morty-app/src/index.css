@@ -5,9 +5,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.ubuntu {
-  font-family: 'Ubuntu';
-}
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
